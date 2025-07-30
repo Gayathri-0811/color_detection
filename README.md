@@ -5,6 +5,7 @@
 A web-based tool built with **Streamlit** and **OpenCV** that identifies and visualizes the dominant colors in an uploaded image using **KMeans clustering**. Ideal for artists, designers, and developers who need to extract a color palette from an image easily.
 
 ---
+> <img width="1000" height="888" alt="output" src="https://github.com/user-attachments/assets/79542abf-fb1a-47be-921c-205e8271dfae" />
 
 ## 📸 Features
 
